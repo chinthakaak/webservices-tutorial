@@ -9,7 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cxf-soap-basics</artifactId>
+    <artifactId>jax-ws-soap-examples</artifactId>
 
-
+    <!--<repositories>-->
+        <!--<repository>-->
+            <!--<id>file.repo</id>-->
+            <!--<url>/data/svn_projects/services/20150707_ase_services_3.0.7_villeneuve/com.aepona.ase.thirdparty.api.parlayx.v2/target</url>-->
+        <!--</repository>-->
+    <!--</repositories>-->
 </project>
